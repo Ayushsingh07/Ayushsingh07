@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ayush95969667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayush95969667" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ayush-singh-285066208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-singh-285066208/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayush-singh-285066208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-singh-285066208" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ayushsingh_7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayushsingh_7" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nqu7069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nqu7069" height="30" width="40" /></a>
 </p>
