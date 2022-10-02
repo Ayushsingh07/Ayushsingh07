@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush singh</h1>
-<h3 align="center">machine learning and Data science enthusiast man_technologist</h3>
+<h3 align="center">machine learning and Data science enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushsingh07&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsingh07" /> </p>
 
