@@ -28,7 +28,7 @@ Take a deep interest in global news and politics, want to contribute to end the 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/Ayushsingh07/HELPERR)  
+- 🔭 I’m currently working on [HACKTOBERFEST](https://github.com/Ayushsingh07/HELPERR)  
   
 
 - 🌱 I’m currently learning WEB3  
