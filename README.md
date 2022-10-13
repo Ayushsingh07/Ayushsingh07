@@ -114,4 +114,3 @@ Take a deep interest in global news and politics, want to contribute to end the 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.ayush.dev/" target="_blank">Github Profilinator</a></div>
