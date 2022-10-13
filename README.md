@@ -105,7 +105,7 @@ Take a deep interest in global news and politics, want to contribute to end the 
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=ayushsingh07&&style=flat-square)  
+
   
 
 <br/>  
