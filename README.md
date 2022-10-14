@@ -95,7 +95,7 @@ Take a deep interest in global news and politics, want to contribute to end the 
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsingh07&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
