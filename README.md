@@ -45,9 +45,7 @@ Take a deep interest in global news and politics, want to contribute to end the 
 </div>  
 
 </td></tr></table>  
-
 <br/>  
-
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
 ## Languages and Tools  
 <div align="center">  
@@ -82,8 +80,6 @@ Take a deep interest in global news and politics, want to contribute to end the 
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a>  
 </div>  
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
-<br/>  
-
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
@@ -95,17 +91,4 @@ Take a deep interest in global news and politics, want to contribute to end the 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsingh07&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
-
-<br/>  
- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
-<br/>  
-
-
-  
-
-<br/>  
-
-
-<br />
-
-----
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
