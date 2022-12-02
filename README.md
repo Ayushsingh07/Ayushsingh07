@@ -36,7 +36,7 @@ Take a deep interest in global news and politics, want to contribute to end the 
 - ❓ Ask me about anything related to MERN stack and computer science.   
   
 
-- ⚡ Fun fact: I am not funny  
+- ⚡ Fun fact: "The things you own end up owning you."
 
 
 </td><td valign="top" width="50%">
