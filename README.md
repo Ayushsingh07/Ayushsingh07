@@ -16,7 +16,7 @@
 ### Glad to see you here!  
 I’m a full-stack developer with deep knowledge of Computer visions and python, exploring web3.loves to learn new things
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing light yet powerful systems, distributed yet synchronized and beautiful yet effective. 
+I specialize in building robust backends that do all the heavy lifting for your application. I love designing light yet powerful systems, distributed yet synchronized and beautiful yet effective. 
 
 Take a deep interest in global news and politics, want to contribute to end the world's starvation and drinking water problem.  
   
